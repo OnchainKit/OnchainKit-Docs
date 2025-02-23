@@ -17,22 +17,22 @@ export const blogConfig: BlogConfig = {
         in contentlayer.config.ts so we can get the author details from the blogConfig by comparing the author_id
         with the id below
       */
-      id: 'daltonmenezes',
-      name: 'Dalton Menezes',
-      image: '/authors/daltonmenezes.jpg',
-      site: 'https://daltonmenezes.com',
-      email: 'daltonmenezes@outlook.com',
+      id: 'saitama',
+      name: 'Saitama',
+      image: '/authors/saitama.jpg',
+      site: 'https://saitama.dev',
+      email: 'coderhopham@gmail.com',
 
       bio: {
         en: 'Software Engineer | Writer | Designer',
-        pt: 'Engenheiro de Software | Escritor | Designer',
+        vn: 'Kỹ sư phần mềm | Người Viết | Nhà Thiết kế',
       },
 
       social: {
-        github: 'daltonmenezes',
-        twitter: '@daltonmenezes',
-        youtube: 'daltonmenezes',
-        linkedin: 'daltonmenezes',
+        github: 'saitamaCoder',
+        twitter: '@SaitamaCoder_VN',
+        youtube: 'saitamaCoder',
+        linkedin: 'saitamaCoder',
       },
     },
   ],

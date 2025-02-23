@@ -1,9 +1,9 @@
-# opendocs
+# OnchainKit Docs
 
 > Next.js beautifully designed template that you can use for your projects for free with site, blog and docs support. Accessible. Customizable. Open Source.
 
 <p align="center">
-  <a href="#opendocs">
+  <a href="#onchainkit-docs">
     <img alt="preview" src="./apps/web/public/og.jpg" width="100%">
   </a>
 </p>
@@ -60,7 +60,7 @@ and more...
 
 ## 📄 Documentation
 
-Visit https://opendocs.daltonmenezes.com/docs to view the documentation.
+Visit https://onchainkit.org/docs to view the documentation.
 
 ## 💬 Contributing
 
@@ -76,4 +76,4 @@ That said, there's a bunch of ways you can contribute to this project, like by:
 
 ## License
 
-Licensed under the [MIT license](https://github.com/daltonmenezes/opendocs/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/OnchainKit/OnchainKit-Docs/blob/main/LICENSE.md).

@@ -4,17 +4,17 @@ export const defaultLocale = 'en' as const
 
 export const locale = {
   en: defaultLocale,
-  pt: 'pt',
+  vn: 'vn',
 } as const
 
 export const labels = {
   [defaultLocale]: 'English',
-  [locale.pt]: 'Português',
+  [locale.vn]: 'Vietnamese',
 } as const
 
 export const dateLocales: LocalizedRecord = {
   en: 'en-US',
-  pt: 'pt-BR',
+  vn: 'vi-VN',
 } as const
 
 export const locales = Object.values(locale) as Locales

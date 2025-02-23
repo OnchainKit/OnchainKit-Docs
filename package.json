@@ -1,5 +1,5 @@
 {
-  "name": "opendocs",
+  "name": "onchainkit-docs",
   "private": true,
   "scripts": {
     "build": "turbo build",

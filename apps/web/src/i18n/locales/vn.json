@@ -1,0 +1,95 @@
+{
+  "site": {
+    "heading": "cho các dự án của bạn một cách dễ dàng",
+    "description": "Mẫu được thiết kế đẹp mắt và bạn có thể sử dụng miễn phí cho các dự án của mình. Dễ tiếp cận. Tùy chỉnh được. Mã nguồn mở.",
+    "announcement": "Giới thiệu Opendocs",
+    "changelog": "Lịch sử thay đổi",
+
+    "buttons": {
+      "get_started": "Bắt đầu",
+      "toggle_menu": "Chuyển đổi Menu",
+      "toggle_language": "Đổi ngôn ngữ"
+    },
+
+    "words": {
+      "menu": "Menu",
+      "docs": "Tài liệu",
+      "blog": "Blog"
+    },
+
+    "featured_cards": {
+      "nextjs": {
+        "description": "Được xây dựng với Next.js sử dụng app router."
+      },
+
+      "shadcn": {
+        "description": "Được xây dựng trên nền tảng Shadcn (site/components)."
+      },
+
+      "tailwind": {
+        "description": "Được tạo kiểu với Tailwind CSS."
+      },
+
+      "i18n": {
+        "description": "Hỗ trợ đa ngôn ngữ với next-intl."
+      },
+
+      "more": {
+        "title": "và nhiều hơn nữa!",
+        "description": "Nhiều tính năng hơn để sử dụng như tài liệu và bài viết blog sử dụng MDX, chế độ tối và sáng, bảng điều khiển tìm kiếm, sitemap đa ngôn ngữ và hơn thế nữa..."
+      }
+    },
+
+    "footer": {
+      "created_by": "Được tạo bởi"
+    },
+
+    "search": {
+      "search": "Tìm kiếm",
+      "search_documentation": "Tìm kiếm tài liệu",
+      "no_results_found": "Không tìm thấy kết quả",
+      "type_command_or_search": "Nhập lệnh hoặc tìm kiếm"
+    },
+
+    "themes": {
+      "theme": "Giao diện",
+      "dark": "Tối",
+      "light": "Sáng",
+      "system": "Theo hệ thống"
+    }
+  },
+
+  "docs": {
+    "on_this_page": "Trong trang này",
+    "edit_page_on_github": "Chỉnh sửa trang này trên GitHub",
+    "start_discussion_on_github": "Bắt đầu thảo luận trên GitHub",
+    "api_reference": "Tài liệu API",
+    "docs": "Tài liệu",
+    "source": "Nguồn",
+
+    "not_found": {
+      "description": "Tài liệu bạn đang tìm kiếm không tồn tại.",
+      "title": "Không tìm thấy tài liệu"
+    }
+  },
+
+  "blog": {
+    "words": {
+      "posts": "Bài viết",
+      "by": "bởi"
+    },
+
+    "cards": {
+      "min_read": "phút đọc"
+    },
+
+    "buttons": {
+      "next": "Tiếp theo",
+      "rss_feed": "Feed RSS",
+      "previous": "Trước đó",
+      "read_more": "đọc thêm",
+      "go_to_next_page": "Đi đến trang tiếp theo",
+      "go_to_previous_page": "Đi đến trang trước đó"
+    }
+  }
+}

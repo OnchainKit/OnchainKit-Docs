@@ -16,7 +16,7 @@ export const docsConfig: DocsConfig = {
 
       title: {
         en: 'Documentation',
-        pt: 'Documentação',
+        vn: 'Tài liệu',
       },
     },
   ],
@@ -25,7 +25,7 @@ export const docsConfig: DocsConfig = {
     {
       title: {
         en: 'Getting Started',
-        pt: 'Começando',
+        vn: 'Bắt đầu',
       },
 
       items: [
@@ -34,7 +34,7 @@ export const docsConfig: DocsConfig = {
 
           title: {
             en: 'Introduction',
-            pt: 'Introdução',
+            vn: 'Giới thiệu',
           },
 
           items: [],
@@ -45,7 +45,7 @@ export const docsConfig: DocsConfig = {
 
           title: {
             en: 'Adding new docs',
-            pt: 'Adicionando novos documentos',
+            vn: 'Thêm tài liệu mới',
           },
 
           items: [],
@@ -56,7 +56,7 @@ export const docsConfig: DocsConfig = {
 
           title: {
             en: 'Customizing',
-            pt: 'Personalizando',
+            vn: 'Tùy chỉnh',
           },
 
           items: [],
@@ -69,7 +69,7 @@ export const docsConfig: DocsConfig = {
 
           label: {
             en: 'New',
-            pt: 'Novo',
+            vn: 'Mới',
           },
 
           items: [
@@ -78,12 +78,12 @@ export const docsConfig: DocsConfig = {
 
               title: {
                 en: 'Frontmatter',
-                pt: 'Cabeçalho de metadados',
+                vn: 'Tiêu đề',
               },
 
               label: {
                 en: 'New',
-                pt: 'Novo',
+                vn: 'Mới',
               },
 
               items: [],
@@ -94,12 +94,12 @@ export const docsConfig: DocsConfig = {
 
               title: {
                 en: 'Code',
-                pt: 'Código',
+                vn: 'Mã',
               },
 
               label: {
                 en: 'New',
-                pt: 'Novo',
+                vn: 'Mới',
               },
 
               items: [],
@@ -110,12 +110,12 @@ export const docsConfig: DocsConfig = {
 
               title: {
                 en: 'Components',
-                pt: 'Componentes',
+                vn: 'Thành phần',
               },
 
               label: {
                 en: 'New',
-                pt: 'Novo',
+                vn: 'Mới',
               },
 
               items: [],
@@ -128,7 +128,7 @@ export const docsConfig: DocsConfig = {
 
           title: {
             en: 'Changelog',
-            pt: 'Histórico de alterações',
+            vn: 'Lịch sử thay đổi',
           },
 
           items: [],
